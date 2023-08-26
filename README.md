@@ -33,6 +33,5 @@ It aims to replicate some of the core features and functionality of the original
 
 # Comments Screen
 
-![Screenshot_2023-08-27-00-09-37-70](https://github.com/OusamaAbouKhalil/Instagram_Clone_Flutter/assets/131563820/86594881-ac1e-4fb6-9335-21daf7d0571d)
-
+![Screenshot_2023-08-27-00-11-06-11](https://github.com/OusamaAbouKhalil/Instagram_Clone_Flutter/assets/131563820/f691c0e4-f96e-49ec-9050-6a7334f2b508)
 
